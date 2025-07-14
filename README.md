@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yh-cyber; just getting started! 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning theoretical calculus
 - ⚡ Fun fact: I'm Batman
