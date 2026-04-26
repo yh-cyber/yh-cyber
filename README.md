@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @yh-cyber; just getting started! 
-- 🌱 I’m currently learning theoretical calculus
-- ⚡ Fun fact: I'm Batman
+- ⚡ Fun fact: I'm part of the LAST ever cohort of MAT137 
