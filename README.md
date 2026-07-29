@@ -1,8 +1,6 @@
 <h2 align="center">
-  👋 Yusyra Hossain 👋
+  Hello World!
 </h2>
-
----
 
 ```yaml
 name: Yusyra Hossain
