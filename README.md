@@ -1,11 +1,6 @@
 <h3 align="center">
   👋 Yusyra Hossain 👋
 </h3>
-<p align="center">
-  Check out my <a href="https://yh-cyber.github.io/"> website </a> for more info! 
-</p>
-<br>
-<h3> About Me </h3>
 
 ```yaml
 name: Yusyra Hossain
@@ -22,3 +17,7 @@ techstack: [
 learning: ["Java", "JS"]
 hobbies: ["Skateboarding", "Coffee", "Internet Rabbit Holes"]
 ```
+
+<p align="center">
+  Check out my <a href="https://yh-cyber.github.io/"> website </a> for more info! 
+</p>
