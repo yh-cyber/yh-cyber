@@ -1,4 +1,4 @@
-<h2 align="center">
+<h1 align="center">
   👋 Hi, I’m Yusyra Hossain, second year CS student at UofT.
 </h1>
 
