@@ -1,7 +1,7 @@
 <h3 align="center">
   👋 Yusyra Hossain 👋
 </h3>
-<p style="text-align: center; font-size: 10px;">
+<p style="align: center; font-size: 10px;">
   Feel free to explore my projects, and check out my <a href="https://yh-cyber.github.io/"> website </a> for more info! 
 </p>
 <br>
