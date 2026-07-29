@@ -10,21 +10,15 @@
 ```yaml
 name: Yusyra Hossain
 occupation: Student
-education:
-  [
-    "HBSc CS Spec @ UofT"
-  ]
-fields_of_interests:
-  [
-    "Software Engineering",
-    "Machine Learning",
-    "Mathematics"
-  ]
-techstack:
-  [
-    "
-  ]
-hobbies: ["Skateboarding", "Art"]
+education: ["HBSc CS Spec @ UofT"]
+fields_of_interest: ["Software Engineering", "Machine Learning", "Mathematics"]
+techstack: [
+            "Python", "R", "HTML&CSS", "LaTeX"
+            "A-Frame", "NetworkX", "Matplotlib"
+            "VSCode", "JupyterHub",
+            "OOP", "ESC"
+            "DSA"
+            ]
+learning: ["Java", "JS"]
+hobbies: ["Skateboarding", "Coffee", "Internet Rabbit Holes"]
 ```
-  
----  
