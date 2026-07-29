@@ -1,7 +1,7 @@
 <h2 align="center">
   👋 Yusyra Hossain 👋
 </h2>
-
+---
 ```yaml
 name: Yusyra Hossain
 occupation: Student
