@@ -5,7 +5,7 @@
   Feel free to explore my projects, and check out my <a href="https://yh-cyber.github.io/"> website </a> for more info! 
 </p>
 <br>
-<h2> About Me </h2>
+<h3> About Me </h3>
 
 ```yaml
 name: Yusyra Hossain
