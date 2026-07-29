@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   👋 Yusyra Hossain 👋
-</h3>
+</h2>
 
 ```yaml
 name: Yusyra Hossain
