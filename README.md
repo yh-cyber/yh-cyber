@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
   👋 Yusyra Hossain 👋
-</h2>
+</h3>
 <p align="center">
   Feel free to explore my projects, and check out my <a href="https://yh-cyber.github.io/"> website </a> for more info! 
 </p>
