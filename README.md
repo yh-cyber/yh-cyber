@@ -2,7 +2,7 @@
   👋 Yusyra Hossain 👋
 </h3>
 <p align="center">
-  Feel free to explore my projects, and check out my <a href="https://yh-cyber.github.io/"> website </a> for more info! 
+  Check out my <a href="https://yh-cyber.github.io/"> website </a> for more info! 
 </p>
 <br>
 <h3> About Me </h3>
