@@ -5,8 +5,9 @@
   Feel free to explore my projects, and check out my <a href="https://yh-cyber.github.io/"> website </a> for more info! 
 </p>
 
+---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> About Me </h2>
 
 ```yaml
 name: Piyush Malhotra
