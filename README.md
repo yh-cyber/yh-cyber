@@ -7,16 +7,8 @@ name: Yusyra Hossain
 occupation: Student
 education: ["HBSc CS Spec @ UofT"]
 fields_of_interest: ["Software Engineering", "Machine Learning", "Mathematics"]
-techstack: [
-            "Python", "R", "HTML&CSS", "LaTeX"      ~ Languages
-            "A-Frame",                              ~ VR Framework
-            "VSCode", "JupyterHub", "Git"           ~ Tools
-            "OOP", "ECS"                            ~ Software Architectural Patterns
-            "DSA"
-            "Supabase"                              ~ Databases
-            ]
-learning: ["Java", "JS"]
 hobbies: ["Skateboarding", "Coffee", "Internet Rabbit Holes"]
+website: ["<a href="https://yh-cyber.github.io/"> yh-cyber </a>"]
 ```
 
 <p align="center">
